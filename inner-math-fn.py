@@ -1,5 +1,11 @@
 """
 Python中内置的数学函数
+1. abs(x)
+2. max(x1,x2,...)
+3. min(x1,x2,...)
+4. pow(a,b)
+5. rand(x) 
+   rand(x,n)
 """
 
 # 取绝对值
