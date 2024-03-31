@@ -20,3 +20,12 @@
   - 符号 +、-、空格
   - `#` 放在符号说明符和宽度之前 可以为数值加相应数制前缀
   - 千位分隔符 不能放在对齐说明符和宽度之前
+
+## 字符串方法
+
+- 子串查找 find()/index()/startswith()/endswith()/count()
+- 字符串拼接/分割 jion()/split()
+- 字符串替换 replace()/translate()
+- 去除首尾字符 strip()
+- 字符转换 lower()/upper()
+- 字符判断 isalnum()/isdigit()/isspace()/isnumeric()
