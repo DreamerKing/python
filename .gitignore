@@ -1,1 +1,5 @@
 .vscode
+.conda
+.venv
+**/**/.ipynb_checkpoints
+**/**/__pycache__
