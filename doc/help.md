@@ -72,6 +72,14 @@ jupyter notebook
 - [virtualenv](https://virtualenv.pypa.io/en/latest/)
 - [venv](https://docs.python.org/zh-cn/3/library/venv.html)
 
+```bash
+cd $ML_PATH
+# 创建环境
+python3 -m virtualenv ml-action
+# 激活环境
+source ml-action/bin/activate
+```
+
 ## 数据结构
 
 数据结构是以某种方式组合起来的数据元素集合,可其视容器，是可以包含其他对象的对象。
