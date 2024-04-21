@@ -62,3 +62,18 @@ py -m pip install -U virtualenv
 ```
 
 ## Python环境管理
+
+```bash
+# 关闭环境
+conda deactivate
+# 激活环境
+conda activate
+```
+
+```bash
+cd $ML_PATH
+# 创建环境
+python3 -m virtualenv ml-action
+# 激活环境
+source ml-action/bin/activate
+```
